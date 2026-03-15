@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I have moved! Follow me on my new account: @Orbi-Code**
+**I have moved! Follow me on my new account: [Orbi-Code](https://github.com/Orbi-Code)**
 
 <!--
 **HunterX86/HunterX86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
